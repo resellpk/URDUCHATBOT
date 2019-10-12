@@ -44,7 +44,7 @@
          "responses":[".اور سائن اپ فارم کو مکمل کرنا https://adifications.comsats.edu.pk/Home/Procedure اس لنک پر جائیں "]
 	 },
          {"tag": "پروگراموں کی فیس ",
-         "patterns": ["پروگراموں کی فیس", "آن لائن درخواست" ],
+         "patterns": ["پروگراموں کی فیس", "فیس کے بارے میں مجھے بتاو" ],
          "responses":[" https://lahore.comsats.edu.pk/Admissions/fee/Fall-2019.xlsx اس یو آر ایل پر جاکر فیس اسٹیکچر فائل ڈاؤن لوڈ کریں یو آر ایل لنک"]
 	 },
           {"tag": "وظائف ",
