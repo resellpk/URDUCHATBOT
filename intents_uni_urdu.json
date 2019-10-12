@@ -48,7 +48,7 @@
          "responses":[" https://lahore.comsats.edu.pk/Admissions/fee/Fall-2019.xlsx اس یو آر ایل پر جاکر فیس اسٹیکچر فائل ڈاؤن لوڈ کریں یو آر ایل لنک"]
 	 },
           {"tag": "وظائف ",
-         "patterns": ["وظائف","اسکالرشپ" ],
+         "patterns": ["وظائف","اسکالرشپ","مجھے اسکالرشی کے بارے میں بتاؤ" ],
          "responses":[" https://lahore.comsats.edu.pk/Admissions/scholarships_financial_aid.aspx اسکالرشپ کی معلومات کے لئے براہ کرم اس یو آر ایل پر جائیں"]
 	 },
           {"tag": "ایم ایس اکاؤنٹنگ اور فنانس ",
